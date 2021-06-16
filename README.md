@@ -1,2 +1,3 @@
 # Dictionery-app
 Dictionery
+DICTIONERY FUNCTIONING USING SETS VALUES
